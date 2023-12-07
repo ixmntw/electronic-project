@@ -1,0 +1,1 @@
+<?=$info[e_manual]?>
